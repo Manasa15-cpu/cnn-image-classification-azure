@@ -36,8 +36,18 @@ cnn-image-classification-azure/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-```
-
 
 
 ## Project Screenshots
+
+### Home Page
+![Home](images/home.png)
+
+### Prediction Example
+![Prediction](images/prediction.png)
+
+### Training Accuracy
+![Accuracy](images/accuracy_plot.png)
+
+### Training Loss
+![Loss](images/loss_plot.png)
