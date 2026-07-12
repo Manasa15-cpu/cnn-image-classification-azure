@@ -23,27 +23,51 @@ A deep learning computer vision project that classifies natural scene images int
 
 ## Project Structure
 
-```text
+
+`md
+
+``text
+
 cnn-image-classification-azure/
+
 ├── src/
+
 │   ├── train.py
+
 │   ├── predict.py
+
 │   └── app.py
+
 ├── deployment/
+
 ├── images/
+
 ├── models/
+
 ├── notebooks/
+
 ├── requirements.txt
+
 ├── .gitignore
+
 └── README.md
 
 
+````md
 ## Project Screenshots
+
+### Home Page
 ![Home](images/home.png)
 
+### Prediction Example
 ![Prediction](images/prediction.png)
 
+### Training Accuracy
 ![Accuracy](images/accuracy_plot.png)
 
+### Training Loss
 ![Loss](images/loss_plot.png)
+
+
+
 
