@@ -36,3 +36,8 @@ cnn-image-classification-azure/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
+
+
+
+## Project Screenshots
